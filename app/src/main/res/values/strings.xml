@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AKTU NOTES</string>
+    <string name="new_user_sign_up">New User? <b>Signup</b></string>
+    <string name="already_have_an_account_login">Already have an account? <b>Login</b></string>
+</resources>
