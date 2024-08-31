@@ -2,4 +2,16 @@
     <string name="app_name">AKTU NOTES</string>
     <string name="new_user_sign_up">New User? <b>Signup</b></string>
     <string name="already_have_an_account_login">Already have an account? <b>Login</b></string>
+    <string name="welcome">"  WELCOME TO AKTU NOTES APP\n"</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="expand_arrow">Expand Arrow</string>
+    <string name="hand_written_notes_image">Hand Written Notes Image</string>
+    <string name="printed_notes_image">Printed Notes Image</string>
+    <string name="previous_year_question_paper_image">Previous Year Question Paper Image</string>
+    <string name="practice_question_paper_image">Practice Question Paper Image</string>
+    <string name="aktu_result_image">AKTU Result Image</string>
+    <string name="aktu_syllabus_image">AKTU Syllabus Image</string>
+    <string name="notes_image">Notes Image Description</string>
+
+
 </resources>

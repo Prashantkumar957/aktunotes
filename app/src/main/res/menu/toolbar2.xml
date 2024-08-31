@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title = "home" android:icon="@drawable/baseline_add_home_24"
+
+  android:id="@+id/home"
+    />
+
+    <item android:title = "lock" android:icon="@drawable/locklogo"
+
+        android:id="@+id/lock"
+        />
+
+
+    <item android:title = "back" android:icon="@drawable/ic_arrow_right"
+
+        android:id="@+id/back"
+        />
+
+
+
+
+
+</menu>
